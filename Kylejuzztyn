@@ -1,4 +1,4 @@
-ï#EXTM3U
+ïï#EXTM3U
 #EXTINF:-1 group-title="INDONESIA",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 group-title="INDONESIA",MNC
@@ -1347,3 +1347,343 @@ https://vcdnjt.useetv.com:443/joss/14/tmusic/chunklist_w2083748760_b684100_sleng
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 group-title="MUSIC",MTV ASIA
 https://cdn-laos.workpoint.news/sd-mtvasia_480/index.m3u8
+#EXTM3U url-tvg="http://iptv-content.webhop.net/epg.xml.gz"
+#EXTINF:0,Первый HD
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/128/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Первый канал
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5005/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Первый канал (+2)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/351/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Первый HD (+4)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/3185/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Первый канал (+4)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/356/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Первый канал (+6)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20751/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Первый канал (+8)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20771/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Россия 1 HD
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/129/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Россия 1
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20002/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Россия 1 (+2)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/352/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Россия 1 (+4)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/355/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Россия 1 (+6)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20752/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Россия 1 (+8)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20772/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Россия-Культура
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5099/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,РТР Планета
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5299/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,НТВ HD
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/253/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,НТВ
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5097/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,НТВ (+2)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/223/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,НТВ (+4)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/358/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,НТВ (+6)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20754/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,НТВ (+8)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20774/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,НТВ Мир
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5633/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,РЕН HD
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/200/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,РЕН ТВ
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5106/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,РЕН ТВ (+2)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/226/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,РЕН ТВ (+4)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/357/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТНТ HD
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/301/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТНТ
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5001/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТНТ (+2)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/353/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТНТ (+4)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20749/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТНТ (+6)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20769/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТНТ4
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/364/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТНТ International
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5296/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,СТС HD
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/3187/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,СТС
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/292/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,СТС (+2)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/224/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,СТС (+4)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/354/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,СТС International
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5297/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,СТС Love
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5253/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Супер
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/6856/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Пятый Канал
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/338/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Пятый Канал (+2)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/285/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Телеканал Звезда
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/337/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Телеканал Звезда (+2)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/366/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Телеканал Звезда (+4)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/360/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТВЦ
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/334/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Домашний
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/291/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Домашний (+2)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/225/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Домашний (+4)
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/359/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Пятница HD
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/213/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Пятница
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5300/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Че
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/363/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Кухня ТВ
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/283/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТелеДом HD
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/361/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Кто есть кто
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/282/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТВ3
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/336/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Мама
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/314/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,МИР PREMIUM
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/138/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Мир 24
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5129/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Новый мир
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/6737/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,360° HD
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/6791/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,360°
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/6792/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,8 канал
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5288/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,КВН ТВ
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5177/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Наше ТВ
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5176/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ОТР
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5501/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Перец International
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/6711/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Продвижение
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/6759/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Ретро ТВ
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/6722/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Сарафан
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5332/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Союз
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5047/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Спас Тв
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5133/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Телеканал Театр
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5116/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Телекафе
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5323/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Успех
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/6853/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Ю ТВ
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5142/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,КРИК-ТВ
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/309/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Ностальгия
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/313/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Ратник
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/23667/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Москва Доверие
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20321/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Первый образовательный
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/20263/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Время
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/5628/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,HOME 4K
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/17445/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,INSIGHT UHD
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/383/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Love Nature 4K
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/387/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Russian Extreme Ultra
+#EXTGRP:RU Общероссийские
+http://ru01.spr24.net/386/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Астрахань 24
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/6799/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,12 Канал (Омск)
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/6680/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,БСТ HD
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/6657/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Грозный
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/5691/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ДОН 24
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/6760/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,КРЫМ 24
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/5010/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/6665/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ТНВ Планета
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/5500/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Югра
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/6708/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,26 регион HD
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/22951/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ЛенТВ24
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/20781/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Кубань 24 Орбита
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23980/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,АТВ Ставрополь
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/20319/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Башкортостан ТВ HD
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23538/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Беларусь 24
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23540/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Белгород 24
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/20341/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,ВМЕСТЕ-РФ
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23555/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Время Н
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23426/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Вся Уфа
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/24000/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Горная страна
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23447/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Томское время
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23780/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Катунь 24
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23983/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Курай HD
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23923/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Курай TV
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23905/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Липецкое время
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/20798/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Матур ТВ
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23423/index.m3u8?token=cfd8LQTwD98ZCV
+#EXTINF:0,Наша сибирь 4K
+#EXTGRP:RU Региональные
+http://ru01.spr24.net/23430/index.m3u8?token=cfd
