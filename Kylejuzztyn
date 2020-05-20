@@ -605,3 +605,16 @@ http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 #EXTINF:-1,TELE MONTE NEVE
 http://wms.shared.streams
+
+#EXTINF:-1,Монголын Мэдээ
+http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
+#EXTINF:-1,МҮОНТ-1
+http://103.14.38.107:1935/live/mnb.stream/chunklist.m3u8
+#EXTINF:-1,内蒙古卫视
+http://111.40.205.76/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1,呼伦贝尔影视
+http://live1.hrtonline.cn:1935/live/live101/500K/tzwj_video.m3u8
+#EXTINF:-1,呼伦贝尔新闻
+http://live1.hrtonline.cn:1935/live/live100/500K/tzwj_video.m3u8
+#EXTINF:-1,呼伦贝尔生活
+http://live1.hrtonline.cn:1935/live/live102/500K/tzwj_video.m3u8
