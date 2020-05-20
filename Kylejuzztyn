@@ -213,3 +213,8 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 http://i.mjh.nz/nz/tv.45.m3u8
 #EXTINF:-1,TVSN Shopping
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF:-1,Gatebil TV
+https://digicom.hls.iptvdc.com/tvplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kanal 10 Norge
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+
