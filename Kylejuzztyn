@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV",TVRI
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w814631736_b684100_sleng.m3u8
+#EXTINF:-1 group-title="TV",ANTV
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1174545310_b894100_sleng.m3u8
+#EXTINF:-1 group-title="TV",INDOSIAR
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1665264182_b894100_sleng.m3u8
+#EXTINF:-1 group-title="TV",TRANS TV HD
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w1403851401_b684100_sleng.m3u8
+#EXTINF:-1 group-title="TV",Trans TV
+https://livetvhooq.akamaized.net/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1571798094~exp=9007200826539085~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_0/chunklist.m3u8*~hmac=406ce5a72d357700e9c8c66845e044b3537ffa9f91795a15876033ddf852a143
+#EXTINF:-1 group-title="TV",RCTI HD1
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1 group-title="TV",SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w446993068_b894100_sleng.m3u8
+#EXTINF:-1 group-title="TV",GLOBALTV HD
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
+#EXTINF:-1 group-title="TV",TV ONE HD
+https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1812792091_b494100_sleng.m3u8
+#EXTINF:-1 group-title="TV",TRANS7 HD
+https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1726935617_b494100_sleng.m3u8
+#EXTINF:-1 group-title="TV",METRO TV
+https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w689368861_b684100_sleng.m3u8
+#EXTINF:-1 group-title="TV",NET TV
+https://vcdnjt.useetv.com/joss/15/net/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTV
+https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w1905872664_b684100_sleng.m3u8
+#EXTINF:-1 group-title="TV",KOMPAS TV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1521110774_b894100_sleng.m3u8
+#EXTINF:-1 group-title="TV",KOMPAS TV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1521110774_b894100_sleng.m3u8
+#EXTINF:-1 group-title="TV",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="TV",CNN INDONESIA HD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
+#EXTINF:-1 group-title="TV",TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV",TRANS7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 group-title="TV",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="TV",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 group-title="TV",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TV",Mytv
+https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
+#EXTINF:-1 group-title="TV",DAAI TV
+https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576332179~exp=9007200831073170~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=1cc4baddd9b1a92f5c83b12788db9c6f7fe4c78b79c9bd7406cdbf7d86d6fe44
+#EXTINF:-1 group-title="TV",Jak TV
+https://livetvhooq.akamaized.net/7393cf95fc9644f59c57815f6d086522/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578503888~exp=9007200833244879~acl=/7393cf95fc9644f59c57815f6d086522/*/profile_0/chunklist.m3u8*~hmac=6b87dc423f5e70876670e828d9a8c81720caae2522e05ebac2422b72efd6e698
+#EXTINF:-1 group-title="TV",JTV
+https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576332546~exp=9007200831073537~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=7c2f871185c6398130f92f2fdd386318a37eb468f51f397ca2831a049832cbd8
+#EXTINF:-1 group-title="TV",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1678042997_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV",fashion
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title="TV",FASHION
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
+#EXTINF:-1 group-title="TV",BMSTV Purwokerto
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TV",Padang TV
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
+#EXTINF:-1 group-title="TV",RTV Riau
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1 group-title="TV",ADiTV Yogyakarta
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TV",Radar TV Lampung
+http://122.248.43.138:1935/ch17/myStream/live.m3u8
+#EXTINF:-1 group-title="TV",Simpang 5 TV Pati
+http://122.248.43.138:1935/ch4/myStream/live.m3u8
+#EXTINF:-1 group-title="TV",SaktiTV Madiun
+http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TV",Banten Raya TV
+http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TV",Jek TV Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1 group-title="TV",Arema TV
+http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w425722557.m3u8
+#EXTINF:-1 group-title="TV",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:-1 group-title="TV",PAL TV Palembang
+http://122.248.43.138:1935/ch7/myStream/live.m3u8
+#EXTINF:-1 group-title="TV",RBTV Bengkulu
+http://122.248.43.138:1935/ch12/myStream/live.m3u8
+#EXTINF:-1 group-title="TV",BETV Bengkulu
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:-1 group-title="TV",AREK TV SURABAYA
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+#EXTINF:-1 group-title="TV",NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+#EXTINF:-1 group-title="TV",TRANS TV FHD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1678042997_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV",METRO TV SD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="TV",RTV
+hmac=9f1e1801df2f7fcaf23f5d0b75313f7fa2263c556a6d5f05039b4671d1dfe28b/hls-p/ingest_geo_1561_720p/index.m3u8
+#EXTINF:-1 group-title="TV",RCTI HD
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1 group-title="“Lokal”",Kompas TV
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+#EXTINF:-1 group-title="“Lokal”",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="TV",TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729486727_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="TV",Global HD
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
+#EXTINF:-1 group-title="TV",Kompas TV Backup
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+#EXTINF:-1 group-title="TV",Jember 1 TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV",ADi TV Jogja
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TV",JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="TV",Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="TV",JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="TV",Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="TV",JakTV
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="TV",Padang TV
+https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
+#EXTINF:-1 group-title="TV",RBTV Bengkulu
+http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",ADMIN
+https://www.dropbox.com/s/lk64po8a0dzkghj/opening.mp4?dl=1
+#EXTINF:-1 group-title="MUSIC",KARAOKE TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="MUSIC",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="MUSIC",ONE
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="MUSIC",KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="MUSIC",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="MUSIC",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="MUSIC",tvg-logo="null.jbk" group-title="MUSIC
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 group-title="MUSIC",ONE
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="MUSIC",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="MUSIC",Zing
+http://livecdnh1.tvanywhere.ae/hls/zing/03.m3u8
+#EXTINF:-1 group-title="MUSIC",Zoom
+http://livecdnh1.tvanywhere.ae/hls/zoom/03.m3u8
+#EXTINF:-1 group-title="MUSIC",Dilse
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1 group-title="MUSIC",Trace Urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
+#EXTINF:-1 group-title="MUSIC",Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
+#EXTINF:-1 group-title="MUSIC",Trace Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
+#EXTINF:-1 group-title="MUSIC",Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
