@@ -618,3 +618,11 @@ http://live1.hrtonline.cn:1935/live/live101/500K/tzwj_video.m3u8
 http://live1.hrtonline.cn:1935/live/live100/500K/tzwj_video.m3u8
 #EXTINF:-1,呼伦贝尔生活
 http://live1.hrtonline.cn:1935/live/live102/500K/tzwj_video.m3u8
+#EXTINF:-1,Trace Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1,TV Maná Moçambique
+http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
+#EXTINF:-1,TVM
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1,TVM Internacional
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
