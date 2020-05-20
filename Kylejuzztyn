@@ -335,4 +335,17 @@ http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist_b1894400_slNLD.m3u8
 http://ms7.mx-cd.net/tv/109-573495/MLA.smil/playlist.m3u8
 #EXTINF:-1,ZO!34
 http://558bd16067b67.streamlock.net/rtvemmen_tv/rtvemmen_tv/playlist.m3u8
-
+#EXTINF:-1,MRT 1
+http://190.2.154.72:8081/tvstanici/5mob/playlist.m3u8
+#EXTINF:-1,Sky Folk TV
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1,TVPlus
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-1,TVPlus
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,Алфа ТВ
+http://190.2.154.72:8081/tvstanici/33/playlist.m3u8
+#EXTINF:-1,Телма
+http://190.2.154.72:8081/tvstanici/4/playlist.m3u8
+#EXTINF:-1,Фолк ТВ
+http://51.254.45.61:8080/hls/folkmk2.m3u8
